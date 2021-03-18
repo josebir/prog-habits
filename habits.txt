@@ -1,5 +1,7 @@
-Habit #6
-Programator by mal byt timovy hrac, t.j. nemal by vsetko robit sam, ale doraz sa kladie
-na kolaboraciu. Uzko by mal spolupracovat s druhymi programatormi a navzajom by si mali
-pomahat. Takato kolaboracia je nevyhnutna aj vo firmach, kde su programatori v timoch
-a kod jedneho programatora napr. uzko interaguje s kodom druheho programatora.
+Habit #7
+Programator musi ratat s tym, ze vela casu stravi bez ucasti druhych ludi, resp. jeho kontakt
+s inymi nebude na takej baze, ako je tomu napr. u doktorov alebo pravnikov, ktori sa
+denno-denne stretavaju s mnozstvom ludi. Programator casto vela casu (napr. 3 hodiny denne)
+stravi sam citanim dokumentacie, studovanim zdrojoveho kodu, programovanim, debugovanim.
+Takze programator jednoducho musi ratat s tym, ze jeho miera socializacie
+s inymi ludmi bude nizsia, ako u inych ludi, ktori nie su programatormi.
