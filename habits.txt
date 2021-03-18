@@ -1,5 +1,7 @@
-Habit #2
-Programator by sa mal sustredit na svoju ulohu, resp. na ciele projektu, nez na to, aby
-vylepsoval neustale prostredie, alebo svoj kod, ak to nie je potrebne, resp. ak za to
-nedostane ziadnu odmenu, ak to nedostane do ruk koncovy pouzivatel, alebo nikam
-dopredu to neposunie projekt, na ktorom pracuje. 
+Habit #3
+Programator by nemal zbytocne zvysovat narocnost svojho kodu, aby si zvysoval svoje ego
+alebo sa vychvaloval. Mal by ho udrzat tak jednoduchy, ako sa len da. Lebo v buducnosti
+mozu nastat zmeny a tento kod sa mu uz nemusi pouzivat tak dobre a efektivne, resp. moze
+mat neskor problem s jeho citanim alebo citanim kodu inych programatorov. Jednoduchost
+kodu mu napr. moze pomoct aj v tom, ze sa bude rychlejsie debugovat a projekt bude
+rychlejsie napredovat.
