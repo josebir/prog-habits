@@ -1,5 +1,6 @@
-Habit #4
-Programator by nemal byt neustale niekym alebo niecim ruseny, napr. kazdych 10 alebo
-20min. Mal by byt teda na to, co robi, dobre sustredeny, resp. na tu danu dobu doslova
-stratit pojem o case, len aby mohol efektivne a konzistentne programovat, scrollovat kod
-a vykonavat dalsie ulohy, ktore su naplnou jeho prace.
+Habit #5
+Programator by sa mal neustale ucit a zlepsovat vo svojom obore, pretoze vyvoj ide neustale
+dopredu a rychlo sa moze stat, ze programator zacne vyrazne zaostavat. K neustalemu
+uceniu by sme mohli zaradit aj schopnost debugovat kod, lebo tak sa dokaze programator
+ucit, ako je program alebo sytem poskladany dokopy, ako funguje, pripadne ake mozu byt
+hlavne priciny chyb, ktore mozu nastat.
