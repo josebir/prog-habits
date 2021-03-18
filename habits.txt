@@ -1,5 +1,5 @@
-Habit #1
-Programator si potrebuje robit caste prestavky, napr. aj kazdych 30 min, pit vela tekutin, 
-mat dostatok spanku a inych fyzickych aktivit pocas dna. Mal by sediet vzpriamene na stolicke, 
-aby si tym neznicil drzanie tela, mal by chodit aj vonku na slnko napr. pocas obednajsej 
-prestavky a nemal by byt proste dlho nalepeny na pocitaci bez prestavok.
+Habit #2
+Programator by sa mal sustredit na svoju ulohu, resp. na ciele projektu, nez na to, aby
+vylepsoval neustale prostredie, alebo svoj kod, ak to nie je potrebne, resp. ak za to
+nedostane ziadnu odmenu, ak to nedostane do ruk koncovy pouzivatel, alebo nikam
+dopredu to neposunie projekt, na ktorom pracuje. 
