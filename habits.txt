@@ -1,6 +1,5 @@
-Habit #5
-Programator by sa mal neustale ucit a zlepsovat vo svojom obore, pretoze vyvoj ide neustale
-dopredu a rychlo sa moze stat, ze programator zacne vyrazne zaostavat. K neustalemu
-uceniu by sme mohli zaradit aj schopnost debugovat kod, lebo tak sa dokaze programator
-ucit, ako je program alebo sytem poskladany dokopy, ako funguje, pripadne ake mozu byt
-hlavne priciny chyb, ktore mozu nastat.
+Habit #6
+Programator by mal byt timovy hrac, t.j. nemal by vsetko robit sam, ale doraz sa kladie
+na kolaboraciu. Uzko by mal spolupracovat s druhymi programatormi a navzajom by si mali
+pomahat. Takato kolaboracia je nevyhnutna aj vo firmach, kde su programatori v timoch
+a kod jedneho programatora napr. uzko interaguje s kodom druheho programatora.
